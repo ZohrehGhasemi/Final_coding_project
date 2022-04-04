@@ -1,4 +1,4 @@
-use "C:\Users\Nguyen_Khanh\Downloads\nls.dta"
+use "C:\Users\Zohreh\Downloads\nls.dta"
 
 lab var lwage76 "Log wage in 1976"
 lab var ed76 "Education level (1976)"
