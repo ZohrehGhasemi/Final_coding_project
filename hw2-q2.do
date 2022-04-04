@@ -1,4 +1,4 @@
-use "C:\Users\Nguyen_Khanh\Downloads\nls.dta", clear
+use "C:\Users\Zohreh\Downloads\nls.dta", clear
 
 
 set seed 1234
