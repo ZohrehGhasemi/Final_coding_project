@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 use "C:\Users\Zohreh\Downloads\nls.dta"
+=======
+use "C:\Users\Zohreh_Ghasemi\Downloads\nls.dta"
+>>>>>>> 6683c737bf860971245d8cfaed3208b7f6aa276b
 
 lab var lwage76 "Log wage in 1976"
 lab var ed76 "Education level (1976)"

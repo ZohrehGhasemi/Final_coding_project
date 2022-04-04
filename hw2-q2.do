@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 use "C:\Users\Zohreh\Downloads\nls.dta", clear
+=======
+use "C:\Users\Zohreh_Ghasemi\Downloads\nls.dta", clear
+>>>>>>> 6683c737bf860971245d8cfaed3208b7f6aa276b
 
 
 set seed 1234
